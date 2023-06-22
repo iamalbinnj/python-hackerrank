@@ -18,7 +18,12 @@ This repository contains my solutions to various Python problems from HackerRank
 
 Feel free to explore the solutions and provide any feedback or improvements. If you find these solutions helpful, give them a ⭐️!
 
-|    02     |                  [Python Arithmetic Operators](./2%23Arithmeticoperators/python-arithmeticoperators.md)               |
+
+  | # Problem |                                                     Topics                                                            |
+  | --------  | :-------------------------------------------------------------------------------------------------------------------: |
+  |    01     |                             [Say "Hello, World!" With Python](./1%23Helloworld/python-helloworld.md)                  |
+  |    02     |                  [Python Arithmetic Operators](./2%23Arithmeticoperators/python-arithmeticoperators.md)               |
+
 
 ## Contribution
 
