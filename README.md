@@ -18,6 +18,8 @@ This repository contains my solutions to various Python problems from HackerRank
 
 Feel free to explore the solutions and provide any feedback or improvements. If you find these solutions helpful, give them a ⭐️!
 
+|    02     |                  [Python Arithmetic Operators](./2%23Arithmeticoperators/python-arithmeticoperators.md)               |
+
 ## Contribution
 
 If you would like to contribute to this repository by adding your own solutions or improving the existing ones, feel free to submit a pull request. Your contributions are highly appreciated!
