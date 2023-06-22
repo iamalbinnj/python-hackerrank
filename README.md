@@ -18,13 +18,12 @@ This repository contains my solutions to various Python problems from HackerRank
 
 Feel free to explore the solutions and provide any feedback or improvements. If you find these solutions helpful, give them a ⭐️!
 
-
   | # Problem |                                                     Topics                                                            |
   | --------  | :-------------------------------------------------------------------------------------------------------------------: |
-  |    01     |                             [Say "Hello, World!" With Python](./1%23Helloworld/python-helloworld.md)                  |
+  |    01     |                             [Python Hello World!](./1%23Helloworld/python-helloworld.md)                              |
   |    02     |                  [Python Arithmetic Operators](./2%23Arithmeticoperators/python-arithmeticoperators.md)               |
+  |    03     |                            [Python Division](./3%23Division/python-division.md)                                       |
   |    04     |                             [Python If-Else](./4%23IfElse/python-ifelse.md)                                           |
-
 
 ## Contribution
 
