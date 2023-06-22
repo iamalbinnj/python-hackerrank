@@ -24,6 +24,7 @@ Feel free to explore the solutions and provide any feedback or improvements. If 
   |    02     |                  [Python Arithmetic Operators](./2%23Arithmeticoperators/python-arithmeticoperators.md)               |
   |    03     |                            [Python Division](./3%23Division/python-division.md)                                       |
   |    04     |                             [Python If-Else](./4%23IfElse/python-ifelse.md)                                           |
+  |    05     |                             [Python Loop](./5%23Loop/python-loop.md)                                                  |
 
 ## Contribution
 
