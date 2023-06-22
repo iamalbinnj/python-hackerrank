@@ -34,3 +34,5 @@ Print n lines, one corresponding to each i.
 9
 16
 ```
+
+Solution Link : [problem.py](./problem.py)
