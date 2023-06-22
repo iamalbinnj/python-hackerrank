@@ -25,6 +25,7 @@ Feel free to explore the solutions and provide any feedback or improvements. If 
   |    03     |                            [Python Division](./3%23Division/python-division.md)                                       |
   |    04     |                             [Python If-Else](./4%23IfElse/python-ifelse.md)                                           |
   |    05     |                             [Python Loop](./5%23Loop/python-loop.md)                                                  |
+  |    06     |                             [Python Function](./6%23Function/python-function.md)                                      |
 
 ## Contribution
 
