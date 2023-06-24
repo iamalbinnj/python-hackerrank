@@ -26,6 +26,7 @@ Feel free to explore the solutions and provide any feedback or improvements. If 
   |    04     |                             [Python If-Else](./4%23IfElse/python-ifelse.md)                                           |
   |    05     |                             [Python Loop](./5%23Loop/python-loop.md)                                                  |
   |    06     |                             [Python Function](./6%23Function/python-function.md)                                      |
+  |    07     |                         [Python List Comprehensions](./7%23List/python-listcomprehensions.md)                         |
 
 ## Contribution
 
