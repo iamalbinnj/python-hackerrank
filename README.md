@@ -27,6 +27,7 @@ Feel free to explore the solutions and provide any feedback or improvements. If 
   |    05     |                             [Python Loop](./5%23Loop/python-loop.md)                                                  |
   |    06     |                             [Python Function](./6%23Function/python-function.md)                                      |
   |    07     |                         [Python List Comprehensions](./7%23List/python-listcomprehensions.md)                         |
+  |    08     |                         [Python The Runner-Up Score!](./8%23RunnerSore/python-runnerscore.md)                         |
 
 ## Contribution
 
